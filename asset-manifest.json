@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wbuhs/static/css/main.b2edebca.css",
+    "main.js": "/wbuhs/static/js/main.e57718f5.js",
+    "static/js/453.70bba3d2.chunk.js": "/wbuhs/static/js/453.70bba3d2.chunk.js",
+    "index.html": "/wbuhs/index.html",
+    "main.b2edebca.css.map": "/wbuhs/static/css/main.b2edebca.css.map",
+    "main.e57718f5.js.map": "/wbuhs/static/js/main.e57718f5.js.map",
+    "453.70bba3d2.chunk.js.map": "/wbuhs/static/js/453.70bba3d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2edebca.css",
+    "static/js/main.e57718f5.js"
+  ]
+}
